@@ -5,11 +5,8 @@ peace-loving hippies. Built for Mac OS X.
 
 ## What's in it?
 
-* [MacVim](https://github.com/macvim-dev/macvim) (independent or for use in a terminal)
-* [iTerm 2](https://www.iterm2.com/)
 * [tmux](https://tmux.github.io/)
 * Awesome syntax highlighting with the [Solarized color scheme](https://ethanschoonover.com/solarized/)
-* Want to know more? [Fly Vim, First Class](https://developer.squareup.com/blog/fly-vim-first-class)
 
 ### vim
 
